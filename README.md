@@ -28,7 +28,7 @@ Ideal si estás empezando con `discord.py` y quieres algo funcional y fácil de 
 ---
 
 ## Archivos importantes
-- [`MAIN.PY`](enlace) – El alma del bot. Aquí vive toda la lógica.
+- [`MAIN.PY`](https://github.com/TwisSpark/Crea-un-BOT-con-Estilo-que-Saluda-al-Entrar-Gu-a-F-cil-con-Twis-Spark/blob/main/main.py) – El alma del bot. Aquí vive toda la lógica.
 
 ---
 
@@ -39,7 +39,7 @@ Ideal si estás empezando con `discord.py` y quieres algo funcional y fácil de 
 
 ## ¿Tienes dudas o quieres mejorar este bot?
 Únete a **The BDS Spark**, mi servidor de soporte oficial, y pregunta lo que quieras.  
-**Servidor de soporte:** [discord.gg/zUVVUg27ab](https://discord.gg/zUVVUg27ab)
+**Servidor de soporte:** [The BDS Spark](https://discord.gg/zUVVUg27ab)
 
 ---
 
